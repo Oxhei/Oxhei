@@ -25,5 +25,5 @@ Please feel free to reach out to me via my contact information on my profile if 
 
 ## Contact Me 📞
 
-- Email: your.email@roehampton.ac.uk
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername) 💼
+- Email: oxheicode@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oxhei/) 💼
