@@ -26,4 +26,4 @@ Please feel free to reach out to me via my contact information on my profile if 
 ## Contact Me 📞
 
 - Email: oxheicode@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oxhei/) 💼
+- LinkedIn: [Connect with me👋🏾](https://www.linkedin.com/in/oxhei/) 💼
