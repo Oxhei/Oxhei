@@ -20,7 +20,7 @@ Please feel free to reach out to me via my contact information on my profile if 
 
 ## Projects 🚀
 
-- 💻 [Project 1](https://github.com/username/project1) - A brief description of the project
+- 💻 [Muscle Hustle](https://github.com/username/project1) - A brief description of the project
 - 🎨 [Project 2](https://github.com/username/project2) - A brief description of the project
 
 ## Contact Me 📞
