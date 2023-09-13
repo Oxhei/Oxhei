@@ -26,4 +26,4 @@ Please feel free to reach out to me via my contact information on my profile if 
 ## Contact Me 📞
 
 - Email: 22136351@bucks.ac.uk
-- LinkedIn: [Connect with me👋🏾](https://www.linkedin.com/in/oxhei/) 💼
+- LinkedIn: [Connect with me👋🏾]([https://www.linkedin.com/in/oxhei/](https://www.linkedin.com/in/richard-okon-318307176/)https://www.linkedin.com/in/richard-okon-318307176/) 💼
