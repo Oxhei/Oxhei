@@ -1,11 +1,10 @@
 ![Github Banner-2](https://github.com/Oxhei/Oxhei/assets/84982365/812d2996-98a7-4dc1-bada-0941851b73ef)
 
-## About Me 👨🏾‍💻
+##About Me 👨🏾‍💻
 
 Hi im, Richard a Computing and Web Development student at Buckinghamshire New University. My passion lies in leveraging technology to create user-friendly online and software solutions. Currently seeking internships or entry-level opportunities in the online and software development industries to enhance my knowledge and skills. My goal is to ensure continuous learning and improvement as I embark on my journey in the ever-evolving field of software technology.
 
 Please feel free to reach out to me via my contact information on my profile if you have any questions or would like to discuss potential opportunities. Thank you for visiting my profile!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/oxhei) 
