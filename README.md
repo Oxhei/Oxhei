@@ -1,6 +1,7 @@
 # My GitHub Profile 🚀💻
 ![Github Banner](https://github.com/Oxhei/Oxhei/assets/84982365/6ba19be6-2a31-456d-b426-f1afa77e7e86)
 
+![Github Banner-2](https://github.com/Oxhei/Oxhei/assets/84982365/812d2996-98a7-4dc1-bada-0941851b73ef)
 
 ## About Me 👋
 
