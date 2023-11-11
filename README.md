@@ -1,6 +1,6 @@
 ![Github Banner-2](https://github.com/Oxhei/Oxhei/assets/84982365/812d2996-98a7-4dc1-bada-0941851b73ef)
 
-##About Me 👨🏾‍💻
+## 👨🏾‍💻 About Me 
 
 Hi im, Richard a Computing and Web Development student at Buckinghamshire New University. My passion lies in leveraging technology to create user-friendly online and software solutions. Currently seeking internships or entry-level opportunities in the online and software development industries to enhance my knowledge and skills. My goal is to ensure continuous learning and improvement as I embark on my journey in the ever-evolving field of software technology.
 
