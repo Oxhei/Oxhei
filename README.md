@@ -1,14 +1,20 @@
-![Github Banner-2](https://github.com/Oxhei/Oxhei/assets/84982365/812d2996-98a7-4dc1-bada-0941851b73ef)
+## Hey, I'm Richard 👋🏾
+I'm a student developer based in London, and I'm passionate about crafting digital experiences.
 
-## 👨🏾‍💻 About Me
+ - Check out my [website]() to learn more about me
+ -  Stay updated with my journey on  [LinkedIn](www.linkedin.com/in/oxheii)  and  [Microsoft Learn](https://learn.microsoft.com/en-us/users/richardokon-2904/).
+ -   Explore my  [Repositories](https://github.com/Oxhei?tab=repositories)  to spectate my expertise.
+ ## 🛸 Current Endeavors
+ I'm currently studying as a full-stack developer in London, where my journey involves both building and learning. Here's what I'm currently focused on:
+ -   I'm engaged in exciting front-end & software projects.
+ -   I'm exploring different tools and libraries to enhance my skill set.
+ -   I'm an early riser, always driven and constantly learning in the tech world.
+## ✨ Fun Facts
+ - 1
+ - 2
+ - 3
+ ## 📭 Contact
 
-Hi im, Richard a Computing and Web Development student at Buckinghamshire New University. My passion lies in leveraging technology to create user-friendly online and software solutions. Currently seeking internships or entry-level opportunities in the online and software development industries to enhance my knowledge and skills. My goal is to ensure continuous learning and improvement as I embark on my journey in the ever-evolving field of software technology.
+For a quick response, DM me on  [LinkedIn](www.linkedin.com/in/Oxheii).
 
-Please feel free to reach out to me via my contact information on my profile if you have any questions or would like to discuss potential opportunities. Thank you for visiting my profile!
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oxhei&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oxhei&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+For professional inquiries, reach out via email at  [📧](mailto:richardochei@outlook.com).
