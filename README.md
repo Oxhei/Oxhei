@@ -15,6 +15,6 @@ I'm a student developer based in London, and I'm passionate about crafting digit
  - 3
  ## 📭 Contact
 
-For a quick response, DM me on  [LinkedIn](www.linkedin.com/in/Oxheii/).
+For a quick response, DM me on  [LinkedIn]([www.linkedin.com/in/Oxheii/](https://www.linkedin.com/in/oxheii/)).
 
 For professional inquiries, reach out via email at  [📧](mailto:richardochei@outlook.com).
