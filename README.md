@@ -18,3 +18,5 @@ I'm a student developer based in London, and I'm passionate about crafting digit
 For a quick response, DM me on  [LinkedIn]([www.linkedin.com/in/Oxheii/](https://www.linkedin.com/in/oxheii/)).
 
 For professional inquiries, reach out via email at  [📧](mailto:richardochei@outlook.com).
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
