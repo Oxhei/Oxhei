@@ -10,9 +10,9 @@ I'm a student developer based in London, and I'm passionate about crafting digit
  -   I'm exploring different tools and libraries to enhance my skill set.
  -   I'm an early riser, always driven and constantly learning in the tech world.
 ## ✨ Fun Facts
- - 1
- - 2
- - 3
+ -  I'm a gamer who currently owns both next-gen consoles as well as a PC.
+ -  I'm an amateur kickboxer.
+ - I've been assembling computers since the age of 14, utilizing spare components and pre-owned hardware 
  ## 📭 Contact
 
 For a quick response, DM me on  [LinkedIn]([www.linkedin.com/in/Oxheii/](https://www.linkedin.com/in/oxheii/)).
