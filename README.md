@@ -19,4 +19,4 @@ For a quick response, DM me on  [LinkedIn]([www.linkedin.com/in/Oxheii/](https:/
 
 For professional inquiries, reach out via email at  [📧](mailto:richardochei@outlook.com).
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
