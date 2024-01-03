@@ -2,7 +2,7 @@
 I'm a student developer based in London, and I'm passionate about crafting digital experiences.
 
  - Check out my [website](https://richardochei.netlify.app/) to learn more about me
- -  Stay updated with my journey on  [LinkedIn](www.linkedin.com/in/oxheii)  and  [Microsoft Learn](https://learn.microsoft.com/en-us/users/richardokon-2904/).
+ -  Stay updated with my journey on  [LinkedIn]([www.linkedin.com/in/oxheii](https://uk.linkedin.com/in/richard-okon-318307176))  and  [Microsoft Learn](https://learn.microsoft.com/en-us/users/richardokon-2904/).
  -   Explore my  [Repositories](https://github.com/Oxhei?tab=repositories)  to spectate my expertise.
  ## 🛸 Current Endeavors
  I'm currently studying as a full-stack developer in London, where my journey involves both building and learning. Here's what I'm currently focused on:
