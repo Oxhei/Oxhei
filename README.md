@@ -11,6 +11,7 @@ I'm a student developer based in London, and I'm passionate about crafting digit
 ## ✨ Fun Facts
  -  I have a passion for traveling to various cities and countries.
  -  I'm an amateur kickboxer. 
- - I've been assembling computers since the age of 14, utilizing spare components and pre-owned hardware 
+ - I've been assembling computers since the age of 14, utilizing spare components and pre-owned hardware
+   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Oxhei&theme=matrix)](https://github.com/Oxhei)
 
