@@ -1,7 +1,7 @@
 ## Hey, I'm Richard 👋🏾
 I'm a student developer based in London, and I'm passionate about crafting digital experiences.
 
- - Check out my [website]() to learn more about me
+ - Check out my [website](https://richardochei.netlify.app/) to learn more about me
  -  Stay updated with my journey on  [LinkedIn](www.linkedin.com/in/oxheii)  and  [Microsoft Learn](https://learn.microsoft.com/en-us/users/richardokon-2904/).
  -   Explore my  [Repositories](https://github.com/Oxhei?tab=repositories)  to spectate my expertise.
  ## 🛸 Current Endeavors
