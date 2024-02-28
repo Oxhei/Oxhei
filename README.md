@@ -22,10 +22,6 @@ I'm a student developer based in London, and I'm passionate about crafting digit
  -   I'm engaged in exciting front-end & software projects.
  -   I'm exploring different tools and libraries to enhance my skill set.
  -   I'm an early riser, always driven and constantly learning in the tech world.
-## ✨ Fun Facts
- -  I have a passion for traveling to various cities and countries.
- -  I'm an amateur kickboxer. 
- - I've been assembling computers since the age of 14, utilizing spare components and pre-owned hardware
    
 [![trophy](https://github-profile-trophy.vercel.app/?username=Oxhei&theme=matrix)](https://github.com/Oxhei)
 
